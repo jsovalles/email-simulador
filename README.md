@@ -7,6 +7,8 @@ Se usaron fuentes de Bootstrap (materialize) para el proyecto y un template bás
 
 Si todos los campos son correctos el botón de enviar es habilitado, cuando se presiona el botón se muestra un spinner por 3 segundos y después se muestra un gif de email por dos segundos, para realizar la simulación correspondiente. Cuando finaliza el spinner y el gif se limpia el formulario para poder volver a rellenar los campos.
 
+El resultado del codigo se puede observar en este [link] (https://jsovalles.github.io/email-simulador/)
+
 # Desarrollado en
 
 * [Visual Studio Code](https://code.visualstudio.com/)
